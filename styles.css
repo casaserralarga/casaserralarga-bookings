@@ -1,0 +1,25 @@
+.container {
+    background-color: #f5f5dc; /* beige background */
+    color: #4b3d36; /* brown accents */
+}
+
+.header, .footer {
+    background-color: #d4af37; /* golden accents */
+}
+
+.stripe {
+    background-color: #a3c1ad; /* green stripes */
+}
+
+.dashed-line {
+    border-bottom: 1px dashed #4b3d36; /* brown dashed line */
+}
+
+.button {
+    background-color: #d4af37; /* golden background for buttons */
+    color: white;
+}
+
+.button:hover {
+    background-color: #4b3d36; /* darken on hover */
+}
